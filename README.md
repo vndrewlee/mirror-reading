@@ -11,3 +11,7 @@ https://github.com/tensorflow/models/tree/master/im2txt
 http://nbviewer.jupyter.org/github/syhw/DL4H/blob/master/from_logistic_regression_to_deep_nets.ipynb
 
 http://karpathy.github.io/neuralnets/
+
+https://research.googleblog.com/2016/09/introducing-open-images-dataset.html
+
+https://cloud.google.com/vision/
